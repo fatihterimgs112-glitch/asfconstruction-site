@@ -359,3 +359,40 @@ text-align:center;
 color:#888;
 font-size:14px;
 }
+.contact-form{
+max-width:700px;
+margin:40px auto 0;
+display:flex;
+flex-direction:column;
+gap:15px;
+}
+
+.contact-form input,
+.contact-form textarea{
+padding:15px;
+background:#1a1a1a;
+border:1px solid #333;
+border-radius:10px;
+color:white;
+font-size:16px;
+}
+
+.contact-form textarea{
+height:140px;
+resize:none;
+}
+
+.contact-form button{
+background:#D4AF37;
+color:black;
+padding:15px;
+border:none;
+border-radius:10px;
+font-weight:bold;
+cursor:pointer;
+font-size:16px;
+}
+
+.contact-form button:hover{
+opacity:.9;
+}
