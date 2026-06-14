@@ -223,3 +223,41 @@ z-index:9999;
 .whatsapp-btn:hover{
 transform:scale(1.05);
 }
+.projects{
+padding:100px 30px;
+background:#111;
+text-align:center;
+}
+
+.projects h2{
+font-size:42px;
+color:#D4AF37;
+margin-bottom:50px;
+}
+
+.project-grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+gap:25px;
+max-width:1200px;
+margin:auto;
+}
+
+.project-card{
+height:250px;
+background:#1a1a1a;
+border:1px solid #D4AF37;
+border-radius:15px;
+display:flex;
+justify-content:center;
+align-items:center;
+transition:.3s;
+}
+
+.project-card:hover{
+transform:translateY(-8px);
+}
+
+.project-card h3{
+font-size:24px;
+}
