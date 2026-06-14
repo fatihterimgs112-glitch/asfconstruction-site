@@ -315,3 +315,47 @@ background-image:url("images/cafe.jpg");
 .discephe{
 background-image:url("images/discephe.jpg");
 }
+.contact{
+padding:100px 30px;
+background:#111;
+text-align:center;
+}
+
+.contact h2{
+font-size:42px;
+color:#D4AF37;
+margin-bottom:40px;
+}
+
+.contact-box{
+max-width:700px;
+margin:auto;
+background:#1a1a1a;
+padding:40px;
+border-radius:15px;
+border:1px solid #D4AF37;
+}
+
+.contact-box p{
+font-size:22px;
+margin:20px 0;
+}
+
+.contact-btn{
+display:inline-block;
+margin-top:20px;
+background:#25D366;
+color:white;
+padding:15px 30px;
+border-radius:30px;
+text-decoration:none;
+font-weight:bold;
+}
+
+footer{
+background:#000;
+padding:30px;
+text-align:center;
+color:#888;
+font-size:14px;
+}
