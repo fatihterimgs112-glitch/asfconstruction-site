@@ -219,5 +219,27 @@ WhatsApp'tan Ulaş
     <a href="https://wa.me/905366623868" class="whatsapp-btn">
     WhatsApp
 </a>
+<script>
+
+const box = document.querySelector('.compare-box');
+const after = document.querySelector('.after-wrapper');
+const slider = document.querySelector('.slider');
+
+box.addEventListener('mousemove',(e)=>{
+
+const rect = box.getBoundingClientRect();
+
+let x = e.clientX - rect.left;
+
+if(x < 0) x = 0;
+if(x > rect.width) x = rect.width;
+
+after.style.width = x + 'px';
+slider.style.left = x + 'px';
+
+});
+
+</script>
+
 </body>
 </html>
