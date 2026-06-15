@@ -41,7 +41,7 @@ font-weight:600;
 }
 
 nav a:hover{
-color:#D4AF37;
+color:#E6D3A3;
 }
 
 .btn{
@@ -103,7 +103,7 @@ text-align:center;
 
 .stat-box h2{
 font-size:42px;
-color:#D4AF37;
+color:#E6D3A3;
 margin-bottom:10px;
 }
 
@@ -115,7 +115,7 @@ text-align:center;
 
 .services h2{
 font-size:42px;
-color:#D4AF37;
+color:#E6D3A3;
 margin-bottom:50px;
 }
 
@@ -137,7 +137,7 @@ transition:.3s;
 
 .service-card:hover{
 transform:translateY(-8px);
-border-color:#D4AF37;
+border-color:#E6D3A3;
 }
 
 .service-card h3{
@@ -231,7 +231,7 @@ text-align:center;
 
 .projects h2{
 font-size:42px;
-color:#D4AF37;
+color:#E6D3A3;
 margin-bottom:50px;
 }
 
@@ -323,7 +323,7 @@ text-align:center;
 
 .contact h2{
 font-size:42px;
-color:#D4AF37;
+color:#E6D3A3;
 margin-bottom:40px;
 }
 
@@ -404,7 +404,7 @@ text-align:center;
 
 .before-after h2{
 font-size:42px;
-color:#D4AF37;
+color:#E6D3A3;
 margin-bottom:50px;
 }
 
@@ -563,7 +563,7 @@ text-align:center;
 
 .reviews h2{
 font-size:42px;
-color:#D4AF37;
+color:#E6D3A3;
 margin-bottom:50px;
 }
 
@@ -586,11 +586,11 @@ transition:.3s;
 
 .review-card:hover{
 transform:translateY(-5px);
-border-color:#D4AF37;
+border-color:#E6D3A3;
 }
 
 .stars{
-color:#D4AF37;
+color:#E6D3A3;
 font-size:22px;
 margin-bottom:15px;
 }
@@ -602,7 +602,7 @@ margin-bottom:20px;
 }
 
 .review-card h4{
-color:#D4AF37;
+color:#E6D3A3;
 }
 .google-reviews-link{
 margin-bottom:40px;
@@ -611,7 +611,7 @@ margin-bottom:40px;
 .google-reviews-link p{
 font-size:20px;
 margin-bottom:15px;
-color:#D4AF37;
+color:#E6D3A3;
 }
 
 .google-reviews-link a{
