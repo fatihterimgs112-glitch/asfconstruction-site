@@ -628,3 +628,6 @@ transition:.3s;
 .google-reviews-link a:hover{
 transform:translateY(-3px);
 }
+html{
+scroll-behavior:smooth;
+}
