@@ -138,6 +138,7 @@ transition:.3s;
 .service-card:hover{
 transform:translateY(-8px);
 border-color:#E6D3A3;
+box-shadow:0 10px 30px rgba(230,211,163,0.15);    
 }
 
 .service-card h3{
