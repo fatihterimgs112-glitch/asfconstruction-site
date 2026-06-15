@@ -144,6 +144,7 @@ box-shadow:0 10px 30px rgba(230,211,163,0.15);
 
 .service-card h3{
 font-size:22px;
+color:#111;
 }
 
 @media(max-width:768px){
@@ -645,4 +646,8 @@ scroll-behavior:smooth;
     flex-direction:column;
     align-items:center;
     gap:12px;
+}
+.service-card i{
+color:#111;
+font-size:28px;
 }
