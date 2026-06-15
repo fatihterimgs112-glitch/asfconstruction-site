@@ -604,3 +604,27 @@ margin-bottom:20px;
 .review-card h4{
 color:#D4AF37;
 }
+.google-reviews-link{
+margin-bottom:40px;
+}
+
+.google-reviews-link p{
+font-size:20px;
+margin-bottom:15px;
+color:#D4AF37;
+}
+
+.google-reviews-link a{
+display:inline-block;
+background:#D4AF37;
+color:black;
+padding:14px 28px;
+border-radius:30px;
+text-decoration:none;
+font-weight:700;
+transition:.3s;
+}
+
+.google-reviews-link a:hover{
+transform:translateY(-3px);
+}
